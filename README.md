@@ -9,4 +9,4 @@ Two studies were done ([Sahoo et al., 2019](https://doi.org/10.1080/01431161.201
 
 In this repository the modelled VIIRS-DNB like NTL datasets (using multi-layer perceptron model) for 2004 to 2012 are made available for download by the researchers.
 
-Readers are referred to papers mentioned above for details of the process.
+The study was done for the [State of Uttar Pradesh, India](http://geojson.io/#id=github:prasunkgupta/nightlights/blob/master/UP.geojson&map=7/27.188/80.868). The files are georeferenced and in GeoTIFF format. Readers are referred to papers mentioned above for details of the process.
