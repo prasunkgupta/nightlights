@@ -1,4 +1,4 @@
-# Night-time lights data
+# Night-time lights data [![DOI](https://zenodo.org/badge/241801111.svg)](https://zenodo.org/badge/latestdoi/241801111)
 Modelled VIIRS-DNB like night-time lights datasets (2004 to 2012)
 
 The Defense Meteorological Satellite Program’s Operational Linescan System (DMSP-OLS) night-time lights earth observation data (earlier provided by [NOAA](https://ngdc.noaa.gov/eog/index.html), now by [Payne Institute](https://payneinstitute.mines.edu/eog/)) is at 1km spatial resolution and is available as yearly composites (1992-2013).
