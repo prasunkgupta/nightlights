@@ -5,8 +5,8 @@ The Defense Meteorological Satellite Program’s Operational Linescan System (DM
 
 The Visible Infrared Imaging Radiometer Suite’s Day/Night Band (VIIRS-DNB) data is made available at 500m and as monthly composites (April 2012 - December 2019; as on February 20, 2020).
 
-Two studies were done ([Sahoo et al., 2019](https://doi.org/10.1080/01431161.2019.1693077) and Sahoo et al., 2020 (in preparation)) to generate annual composites of VIIRS-DNB data and inter-calibrate with DMSP-OLS, to generate time-series VIIRS-DNB like night-time lights product.
+Two studies were done ([Sahoo et al., 2019](https://doi.org/10.1080/01431161.2019.1693077) and Sahoo et al., 2020 (in preparation)) to generate annual composites of VIIRS-DNB data and inter-calibrate with DMSP-OLS, to generate time-series VIIRS-DNB-like night-time lights product.
 
-In this repository the modelled VIIRS-DNB like NTL datasets (using multi-layer perceptron model) for 2004 to 2012 are made available for download by the researchers.
+In this repository the modelled VIIRS-DNB like NTL datasets (using multi-layer perceptron and random forest models) for 2004 to 2012 are made available for download by the researchers.
 
 The study was done for the [State of Uttar Pradesh, India](http://geojson.io/#id=github:prasunkgupta/nightlights/blob/master/UP.geojson&map=7/27.188/80.868). The files are georeferenced and in GeoTIFF format. Readers are referred to papers mentioned above for details of the process.
